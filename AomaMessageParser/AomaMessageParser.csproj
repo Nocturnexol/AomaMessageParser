@@ -76,7 +76,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="平台传输使用的通讯协议.17-08-21-奥玛-驾驶行为.docx" />
+    <None Include="平台通讯协议.17-08-21-奥玛-驾驶行为.docx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
